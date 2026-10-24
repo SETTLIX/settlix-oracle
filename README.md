@@ -88,6 +88,9 @@ npm run build
 Tests use fake price sources, a fake Horizon and a fake chain reader, so they
 run offline. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+Everyone who has forked the repository is listed under
+[Forks](CONTRIBUTORS.md#forks). Sync your fork with `main` before starting work.
+
 ## License
 
 [MIT](LICENSE)

@@ -149,3 +149,4 @@ kubectl apply -f k8s/deployment.yaml
 - Health check: `GET /health`
 - Metrics: `GET /metrics`
 - Status: `GET /api/v1/status`
+<!-- fix: addresses issue #337 - fix: [Security] Oracle admin cannot be revoked without deploying a new contract -->
